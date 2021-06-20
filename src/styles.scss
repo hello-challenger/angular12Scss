@@ -1,1 +1,21 @@
 @import "~bootstrap/scss/bootstrap";
+
+* {
+    color: #fff;
+}
+
+body {
+    background-color: #c1c1c1;
+    background: linear-gradient(to left, #fff, rgba(255, 0, 0, 0.356) 50%, rgba(0, 0, 255, 0.274) 75%);
+    background: #000;
+}
+
+.boxContent {
+    margin-top: 40px;
+}
+
+.boxFooter {
+
+    position: absolute;
+    bottom: 0;
+}
